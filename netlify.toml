@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://fructosecloud.dynv6.net:5244/:splat"
+  status = 200
+  force = true
